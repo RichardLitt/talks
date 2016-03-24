@@ -7,3 +7,6 @@ Talks of mine at conferences and meetups
 
 #### name-your-contributors
   - BostonJS, March 3, 2016
+
+#### paperswelovebos-cryptography
+  - Papers We Love Boston, March 24, 2016
