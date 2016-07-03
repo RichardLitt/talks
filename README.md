@@ -10,3 +10,6 @@ Talks of mine at conferences and meetups
 
 #### paperswelovebos-cryptography
   - Papers We Love Boston, March 24, 2016
+
+#### nomadism
+  - Hacker Paradise, June 30, 2016
