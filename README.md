@@ -1,6 +1,9 @@
 # talks
 Talks of mine at conferences and meetups
 
+#### bootstrapping your flipflops
+  - Aerolab and Hacker Paradise, January 31, 2017
+
 #### git yolo
   - BrooklynJS, November 19, 2015
   - ArcticJS, January 20, 2016. [YouTube](https://www.youtube.com/watch?v=_KY9ltbdoK4&list=PL3bvPCw5QCLLJUL2Q_bBI1bi9bYQ-4hci&index=3)
@@ -13,3 +16,4 @@ Talks of mine at conferences and meetups
 
 #### nomadism
   - Hacker Paradise, June 30, 2016
+  - Hacker Paradise, January 14th, 2017
