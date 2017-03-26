@@ -17,3 +17,8 @@ Talks of mine at conferences and meetups
 #### nomadism
   - Hacker Paradise, June 30, 2016
   - Hacker Paradise, January 14th, 2017
+
+#### multiformats && ipfs-mtl
+  - Decentralized Web Montreal, March 20, 2016
+  - _Note: I never got to talk about Multiformats (time)_
+  - _Note: The IPFS slides were borrowed from @jbenet from IPFS_
