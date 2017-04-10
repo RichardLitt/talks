@@ -22,3 +22,7 @@ Talks of mine at conferences and meetups
   - Decentralized Web Montreal, March 20, 2016
   - _Note: I never got to talk about Multiformats (time)_
   - _Note: The IPFS slides were borrowed from @jbenet from IPFS_
+
+#### Standard README
+  - Node.js LIVE, Washington DC. October 26, 2016
+  - Nodefest.jp, Tokyo, Japan, November 13, 2016
