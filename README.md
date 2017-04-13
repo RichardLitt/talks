@@ -26,3 +26,4 @@ Talks of mine at conferences and meetups
 #### Standard README
   - Node.js LIVE, Washington DC. October 26, 2016
   - Nodefest.jp, Tokyo, Japan, November 13, 2016
+  - JS Montreal, Montreal, April 11, 2016
