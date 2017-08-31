@@ -1,6 +1,9 @@
 # talks
 Talks of mine at conferences and meetups
 
+#### Hacking the Git protocol
+  - Polyhack Toronto, August 29, 2017
+
 #### bootstrapping your flipflops
   - Aerolab and Hacker Paradise, January 31, 2017
 
