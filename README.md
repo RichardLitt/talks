@@ -1,6 +1,9 @@
 # talks
 Talks of mine at conferences and meetups
 
+#### NVC over MVC
+  - Open Source Montréal, 2018
+
 #### Hacking the Git protocol
   - Polyhack Toronto, August 29, 2017
 
