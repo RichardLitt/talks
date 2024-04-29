@@ -3,7 +3,10 @@ Talks of mine at conferences and meetups
 
 ## Keynotes
 
-#### A rose by any other $variable 
+#### What is sustainable open source?
+  - Keynote at Evergreen Annual Conference, Remote, April 23, 2024
+
+#### A rose by any other $variable
   - Keynote at Interdisciplinary Open Practices Workshop, Burlington, VT, October 28, 2023
 
 ## Talks
