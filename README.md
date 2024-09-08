@@ -11,6 +11,14 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
+### [Using iNaturalist, eBird, and Python to become a community scientist](https://www.youtube.com/watch?v=-KkQEzmOOBY)
+  - Kiwi PyCon, Wellington, NZ, July 24, 2024
+  - [Recording](https://www.youtube.com/watch?v=-KkQEzmOOBY)
+
+### [eBird Seamounts Lightning Talk](https://www.youtube.com/watch?v=0oRa8bnNUjk&t=2410s)
+  - GUADEC, Denver, July 23, 2024
+  - [Recording](https://www.youtube.com/watch?v=0oRa8bnNUjk&t=2410s)
+
 #### [Using FLOSS to plan your daily exercise by birding!](https://osem.seagl.org/conferences/seagl2023/program/proposals/1003)
   - SeaGL, Seattle, November 3, 2023.
   - [Recording](https://www.youtube.com/live/9-mCsIonljc?si=v1UPT6wME9ahbq1X&t=4868)
