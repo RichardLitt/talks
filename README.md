@@ -11,6 +11,9 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
+### From Core to A'Tuin: Citing Software all the way down the Stack
+  - US-RSE 2024, Albuquerque, NM, October 17, 2024
+
 ### [Using iNaturalist, eBird, and Python to become a community scientist](https://www.youtube.com/watch?v=-KkQEzmOOBY)
   - Kiwi PyCon, Wellington, NZ, July 24, 2024
   - [Recording](https://www.youtube.com/watch?v=-KkQEzmOOBY)
