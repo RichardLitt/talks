@@ -11,6 +11,10 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
+### What’s in a name? Understanding scientific names for birds
+  - Talk at 85th Birds NZ Conference, Auckland, June 1, 2025
+  - [Littauer Taxonomy Talk.pdf](./Littauer Taxonomy Talk.pdf)
+
 ### From Core to A'Tuin: Citing Software all the way down the Stack
   - US-RSE 2024, Albuquerque, NM, October 17, 2024
 
