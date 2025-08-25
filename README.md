@@ -11,6 +11,11 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
+### 2025 IEEE POSTGRADUATE SYMPOSIUM NZ Central
+ - August 25, 2025
+ - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PDF)](IEEE Presentation_ 10 quick tips for making your software outlive your job.pdf)
+ - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PPTX)](IEEE Presentation_ 10 quick tips for making your software outlive your job.pptx)
+
 ### What’s in a name? Understanding scientific names for birds
   - Talk at 85th Birds NZ Conference, Auckland, June 1, 2025
   - [Littauer Taxonomy Talk.pdf](./Littauer Taxonomy Talk.pdf)
