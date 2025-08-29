@@ -16,13 +16,13 @@ Talks of mine at conferences and meetups
 
 ### 2025 IEEE POSTGRADUATE SYMPOSIUM NZ Central
   - August 25, 2025
-  - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PDF)](IEEE Presentation_ 10 quick tips for making your software outlive your job.pdf)
-  - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PPTX)](IEEE Presentation_ 10 quick tips for making your software outlive your job.pptx)
+  - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PDF)](./IEEE%20Presentation_%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pdf)
+  - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PPTX)](./IEEE%20Presentation_%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pptx)
 
 ### What’s in a name? Understanding scientific names for birds
   - Auckland, June 1, 2025
   - 85th Birds NZ Conference,
-  - [What’s in a name? Understanding scientific names for birds](taxonomy/Littauer Taxonomy Talk.pdf)
+  - [What’s in a name? Understanding scientific names for birds](./taxonomy/Littauer Taxonomy Talk.pdf)
 
 ### From Core to A'Tuin: Citing Software all the way down the Stack
   - US-RSE 2024, Albuquerque, NM, October 17, 2024
