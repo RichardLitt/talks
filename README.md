@@ -11,27 +11,31 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
-### New Historians PHANZA Conference, Te Herenga Waka Victoria University of Wellington
- - [Lūdente linguā: Language Use and Performance in Zoological Nomenclature](taxonomy/2025.08.29 - New Historians - Ludente lingua.pdf)
+### Lūdente linguā: Language Use and Performance in Zoological Nomenclature
+- August 29, 2025
+- New Historians PHANZA Conference, Te Herenga Waka Victoria University of Wellington
+- [PDF](taxonomy/2025.08.29 - New Historians - Ludente lingua.pdf)
+- [PPTX](taxonomy/2025.08.29 - New Historians - Ludente lingua.pptx)
 
-### 2025 IEEE POSTGRADUATE SYMPOSIUM NZ Central
+#### 10 quick tips for making your software outlive your job
+  - 2025 IEEE POSTGRADUATE SYMPOSIUM NZ Central
   - August 25, 2025
   - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PDF)](./IEEE%20Presentation_%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pdf)
   - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PPTX)](./IEEE%20Presentation_%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pptx)
 
-### What’s in a name? Understanding scientific names for birds
+#### What’s in a name? Understanding scientific names for birds
   - Auckland, June 1, 2025
   - 85th Birds NZ Conference,
   - [What’s in a name? Understanding scientific names for birds](./taxonomy/Littauer Taxonomy Talk.pdf)
 
-### From Core to A'Tuin: Citing Software all the way down the Stack
+#### From Core to A'Tuin: Citing Software all the way down the Stack
   - US-RSE 2024, Albuquerque, NM, October 17, 2024
 
-### [Using iNaturalist, eBird, and Python to become a community scientist](https://www.youtube.com/watch?v=-KkQEzmOOBY)
+#### [Using iNaturalist, eBird, and Python to become a community scientist](https://www.youtube.com/watch?v=-KkQEzmOOBY)
   - Kiwi PyCon, Wellington, NZ, July 24, 2024
   - [Recording](https://www.youtube.com/watch?v=-KkQEzmOOBY)
 
-### [eBird Seamounts Lightning Talk](https://www.youtube.com/watch?v=0oRa8bnNUjk&t=2410s)
+#### [eBird Seamounts Lightning Talk](https://www.youtube.com/watch?v=0oRa8bnNUjk&t=2410s)
   - GUADEC, Denver, July 23, 2024
   - [Recording](https://www.youtube.com/watch?v=0oRa8bnNUjk&t=2410s)
 
