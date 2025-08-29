@@ -11,14 +11,18 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
+### New Historians PHANZA Conference, Te Herenga Waka Victoria University of Wellington
+ - [Lūdente linguā: Language Use and Performance in Zoological Nomenclature](taxonomy/2025.08.29 - New Historians - Ludente lingua.pdf)
+
 ### 2025 IEEE POSTGRADUATE SYMPOSIUM NZ Central
- - August 25, 2025
- - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PDF)](IEEE Presentation_ 10 quick tips for making your software outlive your job.pdf)
- - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PPTX)](IEEE Presentation_ 10 quick tips for making your software outlive your job.pptx)
+  - August 25, 2025
+  - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PDF)](IEEE Presentation_ 10 quick tips for making your software outlive your job.pdf)
+  - [IEEE Presentation_ 10 quick tips for making your software outlive your job (PPTX)](IEEE Presentation_ 10 quick tips for making your software outlive your job.pptx)
 
 ### What’s in a name? Understanding scientific names for birds
-  - Talk at 85th Birds NZ Conference, Auckland, June 1, 2025
-  - [Littauer Taxonomy Talk.pdf](./Littauer Taxonomy Talk.pdf)
+  - Auckland, June 1, 2025
+  - 85th Birds NZ Conference,
+  - [What’s in a name? Understanding scientific names for birds](taxonomy/Littauer Taxonomy Talk.pdf)
 
 ### From Core to A'Tuin: Citing Software all the way down the Stack
   - US-RSE 2024, Albuquerque, NM, October 17, 2024
