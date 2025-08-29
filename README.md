@@ -14,8 +14,8 @@ Talks of mine at conferences and meetups
 ### Lūdente linguā: Language Use and Performance in Zoological Nomenclature
 - August 29, 2025
 - New Historians PHANZA Conference, Te Herenga Waka Victoria University of Wellington
-- [PDF](taxonomy/2025.08.29 - New Historians - Ludente lingua.pdf)
-- [PPTX](taxonomy/2025.08.29 - New Historians - Ludente lingua.pptx)
+- [PDF](taxonomy/2025.08.29%20-%20New%20Historians%20-%20Ludente%20lingua.pdf)
+- [PPTX](taxonomy/2025.08.29%20-%20New%20Historians%20-%20Ludente%20lingua.pptx)
 
 #### 10 quick tips for making your software outlive your job
   - 2025 IEEE POSTGRADUATE SYMPOSIUM NZ Central
