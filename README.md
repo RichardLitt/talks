@@ -23,6 +23,11 @@ Talks of mine at conferences and meetups
   - [PDF](./IEEE%20Presentation_%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pdf)
   - [PPTX](./IEEE%20Presentation_%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pptx)
 
+### OSS UN Sustainability
+  - August 5, 2025
+  - Te Herenga Waka Victoria University of Wellington Takahuri Sustainability Seminar Series
+  - [PDF](2025-08-05%20OSS%20UN%20Sustainability%20Presentation.pdf)
+
 ### What’s in a name? Understanding scientific names for birds
   - Auckland, June 1, 2025
   - 85th Birds NZ Conference,
