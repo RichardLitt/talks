@@ -11,6 +11,12 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
+### [Institutional Policy Pathways for Supporting Research Software: Global Trends, Local Actions](https://docs.google.com/presentation/d/19sx7VIvhdB9NggUKRSl6QsmFLBoBMAoLTThLaMmaxi0/edit?usp=sharing)
+- Online, September 23, 2025
+- With Michelle Barker of ReSA and PRO4RS
+- NZ-RSE Conference
+- [PDF](Slides-NZ-RSE-Sept-2025.pdf)
+
 ### Lūdente linguā: Language Use and Performance in Zoological Nomenclature
 - August 29, 2025
 - New Historians PHANZA Conference, Te Herenga Waka Victoria University of Wellington
@@ -28,10 +34,26 @@ Talks of mine at conferences and meetups
 - Te Herenga Waka Victoria University of Wellington Takahuri Sustainability Seminar Series
 - [PDF](2025-08-05%20OSS%20UN%20Sustainability%20Presentation.pdf)
 
+### [PhD Proposal: Building Tools for Community Science Datasets to Model Bird Populations and Highly Pathogenic Avian Influenza](https://docs.google.com/presentation/d/1Ij-36g_8_Ftj9-RJy4g_rw4fTQL9Gl9FMepC5ihWg2Y/edit?usp=sharing)
+- Wellington, July 22, 2025
+- Part of my formal PhD process
+- [PDF](PHD%20Proposal%20Presentation.pdf)
+- [PPT](PHD%20Proposal%20Presentation.ppt)
+
 ### What’s in a name? Understanding scientific names for birds
 - Auckland, June 1, 2025
 - 85th Birds NZ Conference,
 - [What’s in a name? Understanding scientific names for birds](./taxonomy/Littauer Taxonomy Talk.pdf)
+
+### [Open Refine](https://docs.google.com/presentation/d/1-1lKM0b-F45BLhblKaal9c2yyADgxuEQ_vGBgB-Npb8/edit?usp=sharing)
+- Christchurch, May 17, 2025
+- [NZ WikiCon 2025](https://en.wikipedia.org/wiki/Wikipedia:WikiCon_Aotearoa/Christchurch_2025)
+- [PDF](WikiCon%20–%20OpenRefine%20Presentation.pdf)
+
+### [Open Source Lecture](https://docs.google.com/presentation/d/1dkb0_10BgJ2eDpLlYqFn4LbsQiSfr6qBwN8agvKpWj0/edit?usp=sharing)
+- Wellington, March 2025
+- Part of ENG 402
+- [PDF](Open%20Source%20Lecture.pdf)
 
 ### From Core to A'Tuin: Citing Software all the way down the Stack
 - US-RSE 2024, Albuquerque, NM, October 17, 2024
