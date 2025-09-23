@@ -17,6 +17,11 @@ Talks of mine at conferences and meetups
 - NZ-RSE Conference
 - [PDF](Slides-NZ-RSE-Sept-2025.pdf)
 
+### [Write all the things? The process of collaboratively writing papers]
+- Online, September 19, 2025
+- [Research Software Asia Australia Conference 2025](https://rseaa.org/rsaa25_program)
+- [PDF](Making%20collaborative%20papers.pdf)
+
 ### Lūdente linguā: Language Use and Performance in Zoological Nomenclature
 - August 29, 2025
 - New Historians PHANZA Conference, Te Herenga Waka Victoria University of Wellington
