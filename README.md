@@ -11,6 +11,11 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
+### [*Codex Mutabilis*: Preserving The Reasons For Changes In Scientific Names](taxonomy/Codex%20Mutabilis%20presentation.pdf)
+- November 5, 2025
+- In person
+- iPRES 2025
+
 ### [Institutional Policy Pathways for Supporting Research Software: Global Trends, Local Actions](https://docs.google.com/presentation/d/19sx7VIvhdB9NggUKRSl6QsmFLBoBMAoLTThLaMmaxi0/edit?usp=sharing)
 - Online, September 23, 2025
 - With Michelle Barker of ReSA and PRO4RS
