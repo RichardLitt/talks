@@ -11,9 +11,16 @@ Talks of mine at conferences and meetups
 
 ## Talks
 
+### [*Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology*](KiwiPycon%202025%20-%20Mapping%20the%20Open%20Source%20Ecosystem%20for%20Climate%20Science%20and%20Sustainable%20Technology%20Slides.pdf)
+- November 22, 2025
+- In person
+- Kiwi Pycon 2025
+- Wellington, NZ
+
 ### [*Codex Mutabilis*: Preserving The Reasons For Changes In Scientific Names](taxonomy/Codex%20Mutabilis%20presentation.pdf)
 - November 5, 2025
 - In person
+- Wellington, NZ
 - iPRES 2025
 
 ### [Institutional Policy Pathways for Supporting Research Software: Global Trends, Local Actions](https://docs.google.com/presentation/d/19sx7VIvhdB9NggUKRSl6QsmFLBoBMAoLTThLaMmaxi0/edit?usp=sharing)
