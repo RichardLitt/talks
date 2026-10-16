@@ -37,7 +37,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer (2026). Large-scale NLP detection of vocal mimicry in Australian community science bird observations. *World Ecoacoustics Congress 2026 Abstract Booklet*, p. 58. 17–20 Aug 2026, Cairns / Gimuy, Australia. [doi:10.5281/zenodo.22169692](https://doi.org/10.5281/zenodo.22169692)
+> Richard Littauer (2026). Large-scale NLP detection of vocal mimicry in Australian community science bird observations. *World Ecoacoustics Congress 2026 Abstract Booklet*, p. 58. 17–20 Aug 2026, Cairns / Gimuy, Australia. [https://doi.org/10.5281/zenodo.22169692](https://doi.org/10.5281/zenodo.22169692)
 
 ### The Journal of Open Source Software (JOSS): An open community and platform providing credit to software developers in the time of GenAI
 - With Daniel S. Katz, Warrick Ball, Patrick Diehl, Kyle Niemeyer and Arfon Smith
@@ -61,7 +61,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Tiago Lubiana, Richard Littauer, Siobhan Leachman, Jan Ainali, Manoj Karingamadathil, Andra Waagmeester, Heidi Meudt, Dario Taraborelli (2025). Wiki Loves iNaturalist: How Wikimedians Integrate iNaturalist Content on Wikipedia, Wikidata, and Wikimedia Commons. *Biodiversity Information Science and Standards* 9: e181155. [doi:10.3897/biss.9.181155](https://doi.org/10.3897/biss.9.181155)
+> Tiago Lubiana, Richard Littauer, Siobhan Leachman, Jan Ainali, Manoj Karingamadathil, Andra Waagmeester, Heidi Meudt, Dario Taraborelli (2025). Wiki Loves iNaturalist: How Wikimedians Integrate iNaturalist Content on Wikipedia, Wikidata, and Wikimedia Commons. *Biodiversity Information Science and Standards* 9: e181155. [https://doi.org/10.3897/biss.9.181155](https://doi.org/10.3897/biss.9.181155)
 
 ### Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology
 - With Tobias Augspurger, Alex Stinson, Pierre Vogler-Finck, Andrew Nesbitt and Chris Harris
@@ -70,7 +70,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer (2026). Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology. In: R. Littauer, D. Ganesan, eds., *Kiwi PyCon 2025 Academic Track Proceedings*, pp. 4–5. [doi:10.5281/zenodo.18597028](https://doi.org/10.5281/zenodo.18597028)
+> Richard Littauer (2026). Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology. In: R. Littauer, D. Ganesan, eds., *Kiwi PyCon 2025 Academic Track Proceedings*, pp. 4–5. [https://doi.org/10.5281/zenodo.18597028](https://doi.org/10.5281/zenodo.18597028)
 
 ### Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology (invited)
 - With Tobias Augspurger, Alex Stinson, Pierre Vogler-Finck, Andrew Nesbitt and Chris Harris
@@ -79,7 +79,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer (2026). Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology. In: R. Littauer, D. Ganesan, eds., *Kiwi PyCon 2025 Academic Track Proceedings*, pp. 4–5. [doi:10.5281/zenodo.18597028](https://doi.org/10.5281/zenodo.18597028)
+> Richard Littauer (2026). Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology. In: R. Littauer, D. Ganesan, eds., *Kiwi PyCon 2025 Academic Track Proceedings*, pp. 4–5. [https://doi.org/10.5281/zenodo.18597028](https://doi.org/10.5281/zenodo.18597028)
 
 ### Harmonizing Community Science Datasets to Model Highly Pathogenic Avian Influenza (HPAI) in Birds in the Subantarctic
 - With Kris Bubendorfer
@@ -87,7 +87,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer, Kris Bubendorfer (2025). Harmonizing Community Science Datasets to Model Highly Pathogenic Avian Influenza (HPAI) in Birds in the Subantarctic. *AIEES 2025 Workshop, Pacific Rim International Conference on Artificial Intelligence (PRICAI)*. Wellington, NZ, 17–21 Nov 2025. [doi:10.48550/arXiv.2512.07907](https://doi.org/10.48550/arXiv.2512.07907)
+> Richard Littauer, Kris Bubendorfer (2025). Harmonizing Community Science Datasets to Model Highly Pathogenic Avian Influenza (HPAI) in Birds in the Subantarctic. *AIEES 2025 Workshop, Pacific Rim International Conference on Artificial Intelligence (PRICAI)*. Wellington, NZ, 17–21 Nov 2025. [https://doi.org/10.48550/arXiv.2512.07907](https://doi.org/10.48550/arXiv.2512.07907)
 
 ### Words, words, words, you fishmonger: Using Wikidata to Reconcile Taxonomies
 - Seattle GNU/Linux Conference (SeaGL) 2025, remote, 8 Nov 2025
@@ -100,7 +100,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer, Jessamyn West (2025). Codex Mutabilis: Preserving the Reasons for Changes in Scientific Names. Short paper, *iPRES 2025*. [doi:10.5281/zenodo.19546736](https://doi.org/10.5281/zenodo.19546736)
+> Richard Littauer, Jessamyn West (2025). Codex Mutabilis: Preserving the Reasons for Changes in Scientific Names. Short paper, *iPRES 2025*. [https://doi.org/10.5281/zenodo.19546736](https://doi.org/10.5281/zenodo.19546736)
 
 ### Institutional Policy Pathways for Supporting Research Software: Global Trends, Local Actions
 - With Michelle Barker (ReSA and PRO4RS)
@@ -118,7 +118,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer, Greg Wilson, Jan Ainali, Eman Abdullah AlOmar, Sylwester Arabas, Yanina Bellini Saibene, Kris Bubendorfer, Kaylea Champion, Clare Dillon, Jouni Helske, Pieter Huybrechts, Daniel S. Katz, Chang Liao, David Lippert, Fang Liu, Pierre Marshall, Daniel R. McCloy, Ian McInerney, Mohamed Wiem Mkaouer, Priyanka Ojha, Christoph Treude, Ethan P. White (2025). 10 quick tips for making your software outlive your job. arXiv. [doi:10.48550/arXiv.2505.06484](https://doi.org/10.48550/arXiv.2505.06484)
+> Richard Littauer, Greg Wilson, Jan Ainali, Eman Abdullah AlOmar, Sylwester Arabas, Yanina Bellini Saibene, Kris Bubendorfer, Kaylea Champion, Clare Dillon, Jouni Helske, Pieter Huybrechts, Daniel S. Katz, Chang Liao, David Lippert, Fang Liu, Pierre Marshall, Daniel R. McCloy, Ian McInerney, Mohamed Wiem Mkaouer, Priyanka Ojha, Christoph Treude, Ethan P. White (2025). 10 quick tips for making your software outlive your job. arXiv. [https://doi.org/10.48550/arXiv.2505.06484](https://doi.org/10.48550/arXiv.2505.06484)
 
 ### Lūdente linguā: Language Use and Performance in Zoological Nomenclature
 - New Historians' Conference 2025 (PHANZA), Te Herenga Waka Victoria University of Wellington, 29 Aug 2025
@@ -130,7 +130,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer, Greg Wilson, Jan Ainali, Eman Abdullah AlOmar, Sylwester Arabas, Yanina Bellini Saibene, Kris Bubendorfer, Kaylea Champion, Clare Dillon, Jouni Helske, Pieter Huybrechts, Daniel S. Katz, Chang Liao, David Lippert, Fang Liu, Pierre Marshall, Daniel R. McCloy, Ian McInerney, Mohamed Wiem Mkaouer, Priyanka Ojha, Christoph Treude, Ethan P. White (2025). 10 quick tips for making your software outlive your job. arXiv. [doi:10.48550/arXiv.2505.06484](https://doi.org/10.48550/arXiv.2505.06484)
+> Richard Littauer, Greg Wilson, Jan Ainali, Eman Abdullah AlOmar, Sylwester Arabas, Yanina Bellini Saibene, Kris Bubendorfer, Kaylea Champion, Clare Dillon, Jouni Helske, Pieter Huybrechts, Daniel S. Katz, Chang Liao, David Lippert, Fang Liu, Pierre Marshall, Daniel R. McCloy, Ian McInerney, Mohamed Wiem Mkaouer, Priyanka Ojha, Christoph Treude, Ethan P. White (2025). 10 quick tips for making your software outlive your job. arXiv. [https://doi.org/10.48550/arXiv.2505.06484](https://doi.org/10.48550/arXiv.2505.06484)
 
 ### Open Source Sustainability
 - Takahuri Sustainability Seminar Series, Te Herenga Waka Victoria University of Wellington, 5 Aug 2025
@@ -220,7 +220,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer, et al. (2024). standard-readme. Zenodo. [doi:10.5281/zenodo.11164867](https://doi.org/10.5281/zenodo.11164867)
+> Richard Littauer, et al. (2024). standard-readme. Zenodo. [https://doi.org/10.5281/zenodo.11164867](https://doi.org/10.5281/zenodo.11164867)
 
 ### Nomadism
 - Hacker Paradise, 30 Jun 2016 and 14 Jan 2017
@@ -283,14 +283,14 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer, Karthik Ram, Bertram Ludäscher, William Michener, Rebecca Koskela (2012). Trends in Use of Scientific Workflows: Insights from a Public Repository and Recommendations for Best Practices. *International Journal of Digital Curation* 7(2): 92–100. [doi:10.2218/ijdc.v7i2.232](https://doi.org/10.2218/ijdc.v7i2.232)
+> Richard Littauer, Karthik Ram, Bertram Ludäscher, William Michener, Rebecca Koskela (2012). Trends in Use of Scientific Workflows: Insights from a Public Repository and Recommendations for Best Practices. *International Journal of Digital Curation* 7(2): 92–100. [https://doi.org/10.2218/ijdc.v7i2.232](https://doi.org/10.2218/ijdc.v7i2.232)
 
 ### The Evolution of Morphological Agreement
 - The Evolution of Language: 9th International Conference (EVOLANG9), Feb 2012
 
 #### Citation
 
-> Richard Littauer (2012). The Evolution of Morphological Agreement. In: T. C. Scott-Phillips, M. Tamariz, E. A. Cartmill, J. R. Hurford, eds., *The Evolution of Language: Proceedings of the 9th International Conference (EVOLANG9)*, pp. 484–485. Singapore: World Scientific. [doi:10.1142/9789814401500_0092](https://doi.org/10.1142/9789814401500_0092)
+> Richard Littauer (2012). The Evolution of Morphological Agreement. In: T. C. Scott-Phillips, M. Tamariz, E. A. Cartmill, J. R. Hurford, eds., *The Evolution of Language: Proceedings of the 9th International Conference (EVOLANG9)*, pp. 484–485. Singapore: World Scientific. [https://doi.org/10.1142/9789814401500_0092](https://doi.org/10.1142/9789814401500_0092)
 
 ### Towards Open Methods: Using Scientific Workflows in Linguistics
 - Open Linguistics Workshop, Open Knowledge Conference, Berlin, Germany, 30 Jun 2011
@@ -330,7 +330,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Christian Chiarcos, Sebastian Hellmann, Sebastian Nordhoff, Steven Moran, Richard Littauer, Judith Eckle-Kohler, Iryna Gurevych, Silvana Hartmann, Michael Matuschek, Christian M. Meyer (2012). The Open Linguistics Working Group. In: N. Calzolari, K. Choukri, T. Declerck, M. U. Doğan, B. Maegaard, J. Mariani, J. Odijk, S. Piperidis, eds., *Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12)*, pp. 3603–3610. Istanbul, Turkey, 23–25 May 2012. European Language Resources Association (ELRA). [doi:10.63317/4zgv9goq5odq](https://doi.org/10.63317/4zgv9goq5odq)
+> Christian Chiarcos, Sebastian Hellmann, Sebastian Nordhoff, Steven Moran, Richard Littauer, Judith Eckle-Kohler, Iryna Gurevych, Silvana Hartmann, Michael Matuschek, Christian M. Meyer (2012). The Open Linguistics Working Group. In: N. Calzolari, K. Choukri, T. Declerck, M. U. Doğan, B. Maegaard, J. Mariani, J. Odijk, S. Piperidis, eds., *Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12)*, pp. 3603–3610. Istanbul, Turkey, 23–25 May 2012. European Language Resources Association (ELRA). [https://doi.org/10.63317/4zgv9goq5odq](https://doi.org/10.63317/4zgv9goq5odq)
 
 ### Re-dating the Loss of Laryngeal Air Sacs in *Homo sapiens*
 - EVOLANG9, Feb 2012
@@ -338,7 +338,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer (2012). Re-dating the Loss of Laryngeal Air Sacs in *Homo sapiens*. In: T. C. Scott-Phillips, M. Tamariz, E. A. Cartmill, J. R. Hurford, eds., *The Evolution of Language: Proceedings of the 9th International Conference (EVOLANG9)*, pp. 486–487. Singapore: World Scientific. [doi:10.1142/9789814401500_0093](https://doi.org/10.1142/9789814401500_0093)
+> Richard Littauer (2012). Re-dating the Loss of Laryngeal Air Sacs in *Homo sapiens*. In: T. C. Scott-Phillips, M. Tamariz, E. A. Cartmill, J. R. Hurford, eds., *The Evolution of Language: Proceedings of the 9th International Conference (EVOLANG9)*, pp. 486–487. Singapore: World Scientific. [https://doi.org/10.1142/9789814401500_0093](https://doi.org/10.1142/9789814401500_0093)
 
 ### Trends in Use of Scientific Workflows: Insights from a Public Repository and Guidelines for Best Practices
 - With Karthik Ram, Bertram Ludäscher, William Michener and Rebecca Koskela
@@ -346,4 +346,4 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 #### Citation
 
-> Richard Littauer, Karthik Ram, Bertram Ludäscher, William Michener, Rebecca Koskela (2012). Trends in Use of Scientific Workflows: Insights from a Public Repository and Recommendations for Best Practices. *International Journal of Digital Curation* 7(2): 92–100. [doi:10.2218/ijdc.v7i2.232](https://doi.org/10.2218/ijdc.v7i2.232)
+> Richard Littauer, Karthik Ram, Bertram Ludäscher, William Michener, Rebecca Koskela (2012). Trends in Use of Scientific Workflows: Insights from a Public Repository and Recommendations for Best Practices. *International Journal of Digital Curation* 7(2): 92–100. [https://doi.org/10.2218/ijdc.v7i2.232](https://doi.org/10.2218/ijdc.v7i2.232)
