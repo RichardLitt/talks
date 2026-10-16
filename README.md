@@ -51,8 +51,8 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 ### An Update on New Zealand Beach Patrols
 - Poster, Pacific Seabird Group 2026, 23 Feb 2026
 
-### Open Source Lecture
-- Guest lecture for ENG 401, Te Herenga Waka Victoria University of Wellington, 2026
+### What is good open source? (Open Source Lecture)
+- Guest lecture for ENG 401, Te Herenga Waka Victoria University of Wellington, given yearly; most recently 2026
 - [Slides (PDF)](2026%20VUW%20ENG401%20Open%20Source%20Lecture.pdf) · [Google Slides](https://docs.google.com/presentation/d/1dkb0_10BgJ2eDpLlYqFn4LbsQiSfr6qBwN8agvKpWj0/edit?usp=sharing)
 
 ### Wiki Loves iNaturalist: How Wikimedians Integrate iNaturalist Content on Wikipedia, Wikidata, and Wikimedia Commons
@@ -227,6 +227,7 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 - [Slides (Keynote)](2016.06.30%20Hacker%20Paradise%20Nomadism.key) · [Notes: Different Perspectives](2016.06.30%20Hacker%20Paradise%20Nomadism%20Different%20Perspectives.md)
 
 ### Papers We Love: cryptography
+- On Phillip Rogaway's *The Moral Nature of Cryptographic Work*
 - Papers We Love Boston, Boston, MA, 23 May 2016
 - [Slides (PDF)](2016.05.23%20Papers%20We%20Love%20Boston%20Cryptography.pdf) · [Keynote](2016.05.23%20Papers%20We%20Love%20Boston%20Cryptography.key)
 
@@ -244,8 +245,8 @@ If a talk has a preferred citation (usually a paper, abstract, or software recor
 
 > Richard Littauer, Thomas Getgood, Maximilian Berkmann (2023). name-your-contributors (v3.10.0). GitHub. [github.com/mntnr/name-your-contributors](https://github.com/mntnr/name-your-contributors)
 
-### Hour of Code
-- Lynn High School, 11 Dec 2015
+### Living with Code: doAllTheThings()
+- Hour of Code, Lynn High School, 11 Dec 2015
 - [Slides (PDF)](2015.12.11%20Lynn%20High%20School%20Hour%20of%20Code%20presentation.pdf)
 
 ### git yolo
