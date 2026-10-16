@@ -4,7 +4,7 @@ Talks of mine at conferences and meetups, newest first.
 
 Slide files are named `YYYY.MM.DD Venue Title.ext`. Talks without a file here either had no slides, or the slides live elsewhere (linked).
 
-If a talk has an accompanying peer-reviewed paper, it's listed under **Citation** for that talk. Please cite the paper rather than the slides.
+If a talk has a preferred citation (usually a paper, abstract, or software record), it's listed under **Citation** for that talk. Please cite that rather than the slides.
 
 ## Keynotes
 
@@ -35,6 +35,10 @@ If a talk has an accompanying peer-reviewed paper, it's listed under **Citation*
 - World Ecoacoustics Congress 2026, Cairns / Gimuy, Australia, 17 Aug 2026
 - [Slides (PDF)](2026.08.17%20World%20Ecoacoustics%20Congress%202026%20Large-scale%20NLP%20detection%20of%20vocal%20mimicry%20in%20Australian%20community%20science%20bird%20observations.pdf) · [Abstract and slides: 10.5281/zenodo.22169692](https://doi.org/10.5281/zenodo.22169692)
 
+#### Citation
+
+> Richard Littauer (2026). Large-scale NLP detection of vocal mimicry in Australian community science bird observations. *World Ecoacoustics Congress 2026 Abstract Booklet*, p. 58. 17–20 Aug 2026, Cairns / Gimuy, Australia. [doi:10.5281/zenodo.22169692](https://doi.org/10.5281/zenodo.22169692)
+
 ### The Journal of Open Source Software (JOSS): An open community and platform providing credit to software developers in the time of GenAI
 - With Daniel S. Katz, Warrick Ball, Patrick Diehl, Kyle Niemeyer and Arfon Smith
 - 6th Conference for Research Software Engineering in Germany (deRSE26), Stuttgart, Germany, 3 Mar 2026
@@ -54,7 +58,10 @@ If a talk has an accompanying peer-reviewed paper, it's listed under **Citation*
 ### Wiki Loves iNaturalist: How Wikimedians Integrate iNaturalist Content on Wikipedia, Wikidata, and Wikimedia Commons
 - With Tiago Lubiana, Siobhan Leachman, Jan Ainali, Manoj Karingamadathil, Andra Waagmeester, Heidi Meudt and Dario Taraborelli
 - 5 Dec 2025
-- [Abstract: 10.3897/biss.9.181155](https://doi.org/10.3897/biss.9.181155), *Biodiversity Information Science and Standards* 9: e181155
+
+#### Citation
+
+> Tiago Lubiana, Richard Littauer, Siobhan Leachman, Jan Ainali, Manoj Karingamadathil, Andra Waagmeester, Heidi Meudt, Dario Taraborelli (2025). Wiki Loves iNaturalist: How Wikimedians Integrate iNaturalist Content on Wikipedia, Wikidata, and Wikimedia Commons. *Biodiversity Information Science and Standards* 9: e181155. [doi:10.3897/biss.9.181155](https://doi.org/10.3897/biss.9.181155)
 
 ### Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology
 - With Tobias Augspurger, Alex Stinson, Pierre Vogler-Finck, Andrew Nesbitt and Chris Harris
@@ -109,13 +116,21 @@ If a talk has an accompanying peer-reviewed paper, it's listed under **Citation*
 - RSE Conference 2025 (RSECon25), Warwick, UK, 9 Sep 2025
 - [Slides: 10.5281/zenodo.17968168](https://doi.org/10.5281/zenodo.17968168)
 
+#### Citation
+
+> Richard Littauer, Greg Wilson, Jan Ainali, Eman Abdullah AlOmar, Sylwester Arabas, Yanina Bellini Saibene, Kris Bubendorfer, Kaylea Champion, Clare Dillon, Jouni Helske, Pieter Huybrechts, Daniel S. Katz, Chang Liao, David Lippert, Fang Liu, Pierre Marshall, Daniel R. McCloy, Ian McInerney, Mohamed Wiem Mkaouer, Priyanka Ojha, Christoph Treude, Ethan P. White (2025). 10 quick tips for making your software outlive your job. arXiv. [doi:10.48550/arXiv.2505.06484](https://doi.org/10.48550/arXiv.2505.06484)
+
 ### Lūdente linguā: Language Use and Performance in Zoological Nomenclature
 - New Historians' Conference 2025 (PHANZA), Te Herenga Waka Victoria University of Wellington, 29 Aug 2025
 - [Slides (PDF)](taxonomy/2025.08.29%20New%20Historians%20Conference%202025%20Ludente%20lingua%20Language%20Use%20and%20Performance%20in%20Zoological%20Nomenclature.pdf) · [PPTX](taxonomy/2025.08.29%20New%20Historians%20Conference%202025%20Ludente%20lingua%20Language%20Use%20and%20Performance%20in%20Zoological%20Nomenclature.pptx)
 
 ### 10 quick tips for making your software outlive your job
 - 2025 IEEE New Zealand Central Section Postgraduate Symposium, Te Herenga Waka Victoria University of Wellington, 25 Aug 2025
-- [Slides (PDF)](2025.08.25%20IEEE%20NZ%20Central%20Postgraduate%20Symposium%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pdf) · [PPTX](2025.08.25%20IEEE%20NZ%20Central%20Postgraduate%20Symposium%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pptx) · [Preprint: 10.48550/arXiv.2505.06484](https://doi.org/10.48550/arXiv.2505.06484)
+- [Slides (PDF)](2025.08.25%20IEEE%20NZ%20Central%20Postgraduate%20Symposium%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pdf) · [PPTX](2025.08.25%20IEEE%20NZ%20Central%20Postgraduate%20Symposium%2010%20quick%20tips%20for%20making%20your%20software%20outlive%20your%20job.pptx)
+
+#### Citation
+
+> Richard Littauer, Greg Wilson, Jan Ainali, Eman Abdullah AlOmar, Sylwester Arabas, Yanina Bellini Saibene, Kris Bubendorfer, Kaylea Champion, Clare Dillon, Jouni Helske, Pieter Huybrechts, Daniel S. Katz, Chang Liao, David Lippert, Fang Liu, Pierre Marshall, Daniel R. McCloy, Ian McInerney, Mohamed Wiem Mkaouer, Priyanka Ojha, Christoph Treude, Ethan P. White (2025). 10 quick tips for making your software outlive your job. arXiv. [doi:10.48550/arXiv.2505.06484](https://doi.org/10.48550/arXiv.2505.06484)
 
 ### Open Source Sustainability
 - Takahuri Sustainability Seminar Series, Te Herenga Waka Victoria University of Wellington, 5 Aug 2025
@@ -142,6 +157,10 @@ If a talk has an accompanying peer-reviewed paper, it's listed under **Citation*
 - With Tobias Augspurger and Andrew Nesbitt
 - US-RSE 2024, Albuquerque, NM, 17 Oct 2024
 - [Slides (PDF)](2024.10.17%20US-RSE%202024%20From%20Core%20to%20A%27Tuin%20Citing%20Software%20All%20The%20Way%20Down%20the%20Stack.pdf)
+
+#### Citation
+
+> Richard Littauer, Tobias Augspurger, Andrew Nesbitt (2024). From Core to A'Tuin: Citing Software All The Way Down the Stack. *US-RSE 2024*, Albuquerque, NM, 17 Oct 2024.
 
 ### Using iNaturalist, eBird, and Python to become a community scientist
 - Kiwi PyCon 2024, Wellington, 24 Jul 2024
@@ -199,6 +218,10 @@ If a talk has an accompanying peer-reviewed paper, it's listed under **Citation*
 - Why to Standardize your READMEs: JS Montreal, Montreal, 11 Apr 2017
 - [Slides (reveal.js, DC version)](standard-readme-dc/)
 
+#### Citation
+
+> Richard Littauer, et al. (2024). standard-readme. Zenodo. [doi:10.5281/zenodo.11164867](https://doi.org/10.5281/zenodo.11164867)
+
 ### Nomadism
 - Hacker Paradise, 30 Jun 2016 and 14 Jan 2017
 - [Slides (Keynote)](2016.06.30%20Hacker%20Paradise%20Nomadism.key) · [Notes: Different Perspectives](2016.06.30%20Hacker%20Paradise%20Nomadism%20Different%20Perspectives.md)
@@ -216,6 +239,10 @@ If a talk has an accompanying peer-reviewed paper, it's listed under **Citation*
 ### name-your-contributors
 - BostonJS, Boston, MA, 3 Mar 2016
 - [Slides (PDF)](2016.03.03%20BostonJS%20name-your-contributors.pdf) · [Keynote](2016.03.03%20BostonJS%20name-your-contributors.key)
+
+#### Citation
+
+> Richard Littauer, Thomas Getgood, Maximilian Berkmann (2023). name-your-contributors (v3.10.0). GitHub. [github.com/mntnr/name-your-contributors](https://github.com/mntnr/name-your-contributors)
 
 ### Hour of Code
 - Lynn High School, 11 Dec 2015
@@ -272,6 +299,10 @@ If a talk has an accompanying peer-reviewed paper, it's listed under **Citation*
 - Linguistics and English Language Undergraduate Conference 2011, Edinburgh University, UK, 28 Apr 2011
 - [Slides (SlideShare)](http://www.slideshare.net/RichLitt/the-evolution-of-speech-segmentation-a-computer-simulation)
 
+#### Citation
+
+> Richard Littauer (2011). The Evolution of Speech Segmentation: A Computer Model. MA (Hons) dissertation, Linguistics, University of Edinburgh, UK. Supervisor: Kenny Smith.
+
 ### Constructed Languages and their Uses: Na'vi, Dothraki, and Llárriésh
 - Invited talk, Soap Vox Lecture Series, E.U. Linguistics & English Language Society, Edinburgh, UK, 6 Oct 2010
 - [Recording](http://www.youtube.com/playlist?list=PLC63D005AEEA69981)
@@ -280,10 +311,17 @@ If a talk has an accompanying peer-reviewed paper, it's listed under **Citation*
 
 ### A Proposal for Renaming Bill Types of Bewick's Swans
 - Centennial Meeting of the Association of Field Ornithologists, Plymouth, MA, 11 Oct 2022
-- [Abstracts](https://afonet.org/uploads/2022_AFO100_Abstracts.pdf)
+
+#### Citation
+
+> Richard Littauer (2022). A Proposal for Renaming Bill Types of Bewick's Swans. Poster presented at the Centennial Meeting of the Association of Field Ornithologists, Plymouth, MA, 11 Oct 2022. [Abstracts](https://afonet.org/uploads/2022_AFO100_Abstracts.pdf)
 
 ### Using Demographic Data with Bayesian Phylogenies: A Japanese Case Study
 - Quantitative Historical Linguistics Research Unit, Marburger Haus, Hirschegg, Kleinwalsertal, Austria, 3 Apr 2013
+
+#### Citation
+
+> Richard Littauer (2013). Using Demographic Data with Bayesian Phylogenies: A Japanese Case Study. Research proposal poster presented at the Quantitative Historical Linguistics Research Unit, Marburger Haus, Hirschegg, Kleinwalsertal, Austria, 3 Apr 2013.
 
 ### The Open Linguistics Working Group
 - With Christian Chiarcos, Sebastian Hellmann, Sebastian Nordhoff, Steven Moran, Judith Eckle-Kohler, Iryna Gurevych, Silvana Hartmann, Michael Matuschek and Christian M. Meyer
